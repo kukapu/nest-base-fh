@@ -68,4 +68,9 @@ export class CarsService {
     return carDB;
     // Sino retornamos nada devuelve un undefined por defecto para no dar error
   }
+
+  // Esto no se necesita en la vida real porque lo insertaremos en base de datos
+  fillCarsWithSeed( cars: Car[] ) {
+    this.cars = cars;
+  }
 }
