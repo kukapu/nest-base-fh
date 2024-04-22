@@ -2,6 +2,8 @@
 /dist
 /node_modules
 /mongo
+.env
+pnpm-lock.yaml
 
 # Logs
 logs
