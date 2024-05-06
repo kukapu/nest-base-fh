@@ -3,6 +3,7 @@
 /node_modules
 /build
 /postgres
+/static
 
 # Logs
 logs
@@ -12,6 +13,7 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+pnpm-lock.yaml
 
 # OS
 .DS_Store
