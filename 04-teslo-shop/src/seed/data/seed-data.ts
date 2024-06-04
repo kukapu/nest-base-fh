@@ -34,25 +34,25 @@ export const initialData: SeedData = {
   users: [
     {
       email: 'onizuka1@gto.com',
-      fullname: 'Onizuka',
+      fullname: 'Onizuka1',
       password: 'Gto123',
       roles: ['admin']
     },
     {
       email: 'onizuka2@gto.com',
-      fullname: 'Onizuka',
+      fullname: 'Onizuka2',
       password: 'Gto123',
       roles: ['user']
     },
     {
       email: 'onizuka3@gto.com',
-      fullname: 'Onizuka',
+      fullname: 'Onizuka3',
       password: 'Gto123',
       roles: ['super-user']
     },
     {
       email: 'onizuka4@gto.com',
-      fullname: 'Onizuka',
+      fullname: 'Onizuka4',
       password: 'Gto123',
       roles: ['user', 'admin']
     },
